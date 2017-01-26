@@ -1,0 +1,1429 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+<channel>
+	<title></title>
+	<link>http://openbalada.com.br</link>
+	<description></description>
+	<language>pt-BR</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>http://openbalada.com.br</wp:base_site_url>
+	<wp:base_blog_url>http://openbalada.com.br</wp:base_blog_url>
+
+		<wp:author><wp:author_id>0</wp:author_id><wp:author_login>admin</wp:author_login><wp:author_email>eventos@openbalada.com.br</wp:author_email><wp:author_display_name><![CDATA[Admin]]></wp:author_display_name><wp:author_first_name><![CDATA[Admin]]></wp:author_first_name><wp:author_last_name><![CDATA[Pereira]]></wp:author_last_name></wp:author>
+
+	<!-- ************** JOGAR SEMPRE ESTAS TAGS NO FINAL PARA FECHAR ************************
+			</channel>
+			</rss> 
+	    **********************************************************************************-->
+	<item>
+						<title>THAEME & THIAGO na fazenda coléginho </title>
+						<content:encoded><![CDATA[ Compra de Ingressos:
+Lloyds Turismo, Padaria Pão Chick, Doceira Marinella, Jô Calçados, Padaria Ponto Brasil Novo, Alemadely, Metropole Café e Oscar Calçados
+A partir de R$ 30,00Descrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Sertanejo Universitário" nicename="Sertanejo Universitário"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Fazenda Coleginho]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Rodovia Nilo Máximo, 1305]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 3951-3699]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://fazendacoleginho.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/fcoleginho]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/09/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[22h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[R$ 30]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>ZÉ FELIPE na fazenda coleginho </title>
+						<content:encoded><![CDATA[ Ingressos a venda:
+convites à vendas:
+Lojas Jô Calçados
+Padaria Pão Chick
+Doceria MarinellaDescrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Sertanejo Universitário" nicename="Sertanejo Universitário"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Fazenda Coleginho]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Rodovia Nilo Máximo, 1305]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 3951-3699]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://fazendacoleginho.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/fcoleginho]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Secundario]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/02/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[23h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>XANDE DE PILARES NA FAZENDA COLEGINHO </title>
+						<content:encoded><![CDATA[ INGRESSOS À VENDAS:
+LOJAS JÔ CALCADOS.
+PADARIA PÃO CHICK
+DOCERIA MARINELLADescrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Pagode" nicename="Pagode"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Fazenda Coleginho]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Rodovia Nilo Máximo, 1305]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 3951-3699]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://fazendacoleginho.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/fcoleginho]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/23/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[23h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>FIDUMA & JECA NA FAZENDA COLEGINHO </title>
+						<content:encoded><![CDATA[ A FAZENDA COLEGINHO NÃO PARA COM OS SHOWS..
+DIA 16 DE ABRIL TEM Fiduma & Jeca
+INGRESSOS À VENDAS:
+LOJAS JÔ CALCADOS.
+PADARIA PÃO CHICK
+DOCERIA MARINELLA
+PISTA 30,00 - CAMAROTE 60,00Descrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Sertanejo Universitário" nicename="Sertanejo Universitário"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Fazenda Coleginho]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Rodovia Nilo Máximo, 1305]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 3951-3699]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://fazendacoleginho.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/events/1041104732617030/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/16/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[22h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 30]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>PÉRICLES EM ATIBAIA </title>
+						<content:encoded><![CDATA[ Ingressos: 
+Drogarias São Sebastião
+Equipe Elite
+Yuppi Modas
+Banca do Roberto
+Opticas EstiloDescrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Pagode" nicename="Pagode"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Espaço Serenella]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Rodovia Dom Pedro I, Km 76,5 - Atibaia]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 4412-2163]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://serenella.com.br]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/ESPACOSERENELLA/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[05/27/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[20h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 20]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>PEdro paulo e alex no clube luso </title>
+						<content:encoded><![CDATA[ Ingressos a venda:
+Lloyds Turismo, Padaria Pão Chick, Doceira Marinella, Jô Calçados, Padaria Ponto Brasil Novo, Alemadely, Jô Calçados, Metropole Café e Oscar Calçados
+Descrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Sertanejo Universitário" nicename="Sertanejo Universitário"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Clube de Campo Luso Brasileiro]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Estr. Pedro Moacir de Almeida, S/N - Vargem Grande, São José dos Campos - SP, 12214-480]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 3308-9875]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://www.clubeluso.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/pages/Clube-Luso-Brasileiro/229719880420811?rf=300119993331387]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[05/25/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[22h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 40,00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>emicida no santa mix </title>
+						<content:encoded><![CDATA[ Venda de ingressos:
+
+Padaria Pão Chick e Lloyds Turismo
+Descrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="" nicename=""><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Santa Mix]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[R. Paulo Madureira Lebrão, 204 - Vila Cesar]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 3322-6937]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://www.santamix.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/SantaMixEventos/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[05/14/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[22h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 20,00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>lulu santos no clube luso brasileiro </title>
+						<content:encoded><![CDATA[ Ingressos:
+Lloyds turismo, Padaria Pão Chick, Boteco 80, Doceira Marinella e Subway
+Descrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Pop" nicename="Pop"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Clube de Campo Luso Brasileiro]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Estr. Pedro Moacir de Almeida, S/N - Vargem Grande, São José dos Campos - SP, 12214-480]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 3308-9875]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://www.clubeluso.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/pages/Clube-Luso-Brasileiro/229719880420811?rf=300119993331387]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[05/13/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[21h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 40,00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>MR. CATRA NO SANTA MIX </title>
+						<content:encoded><![CDATA[ Ingressos a venda:
+São José dos Campos - Trarxa Rock, Hoodley, Padaria Pão Chick, Lloyds Turismo, Buba Auto Center, Jô calçados | Taubaté - Trarxa Rock | Jacareí - Jô Calçados
+Descrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Funk" nicename="Funk"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Santa Mix]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[ R. Paulo Madureira Lebrão, 204 - Vila Cesar, São José dos Campos - SP]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 3322-6937]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://www.santamix.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/SantaMixEventos/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[05/07/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[23h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 20,00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>anitta na cervejaria do gordo </title>
+						<content:encoded><![CDATA[ Ingressos: 
+Jocko's, Conveniência Filémiau express, BOB's shopping Buriti, Auto posto 2D e Auto posto Máximo
+Descrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Funk" nicename="Funk"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Cervejaria do Gordo]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Estrada Municipal de Lorena, 167 - Acesso Via Dutra Km 57 Sentido SP – RJ, Lorena – SP]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) ]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 99774-6600]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://www.cervejariadogordo.com.br]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/cervejariadogordo]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[05/01/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[23h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 40,00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>SERIAL FUNKERS no anexo </title>
+						<content:encoded><![CDATA[ Ingressos:
+Bilheteria do AnexoDescrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Pop" nicename="Pop"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Anexo]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 3922-4634]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://www.anexo.com.br]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/pages/Anexo-da-Nena/146474835436573]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/30/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[23h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 25]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>VALESCA POPOZUDA na cenário lorena </title>
+						<content:encoded><![CDATA[ Ingressos a venda:
+ Cruzeiro - Serve Quente Pastelaria, Lorena - Rapidinho, Lop's Cafeteria e Up Store, Guaratingueta - Sala Vip Buriti Shopping, Aparecida - Loja Sala Vip, Pinda - Impact Skate, Taubaté - Impact Skate
+Descrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Funk" nicename="Funk"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Cenário Lorena]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Rod. Washington Luíz, 2426, Lorena - SP]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://www.cenariolorena.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/cenario1/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/30/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[18h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 30,00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>mr. catra na baile do bixo EM LORENA  </title>
+						<content:encoded><![CDATA[ Universitário (Válido para Univ. e Mulheres) - R$30
+Não Universitário - R$50
+Pontos de Venda
+Cruzeiro - Serve Quente Pastelaria
+Lorena - Up Store e Lop's Chopperia
+Guará - Sala Vip Shopping
+Aparecida - Sala VipDescrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Funk" nicename="Funk"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Cenário Lorena]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Rod. Washington Luíz, 2426, Lorena - SP]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://www.cenariolorena.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/cenario1/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/02/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[23h30]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 30]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>TATI ZAQUI no clube recanto dos tamoios </title>
+						<content:encoded><![CDATA[ Ingressos: 
+FarmaConde e WavePoint
+Descrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Funk" nicename="Funk"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Clube Recanto dos Tamoios]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 99792-2309]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/Clube-Recanto-dos-Tamoios-685459931523238/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/16/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[23h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 30,00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>THIAGUINHO no luso brasileiro </title>
+						<content:encoded><![CDATA[ Ingressos: 
+Doceira Marinella, Padaria Pão Chick, Trarxa Rock e Lloyds Turismo
+Descrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Pagode" nicename="Pagode"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Clube de Campo Luso Brasileiro]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Estr. Pedro Moacir de Almeida, S/N - Vargem Grande, São José dos Campos - SP, 12214-480]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 3308-9875]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://www.clubeluso.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/pages/Clube-Luso-Brasileiro/229719880420811?rf=300119993331387]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/16/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[22h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 25]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>PIXOTE NO SANTA MIX </title>
+						<content:encoded><![CDATA[ Ingressos: 
+Padaria Pão Chick, Buba auto center, LlOYDS turismo, Seiko, Padaria Ponto Brasil e Jô CalçadosDescrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Pagode" nicename="Pagode"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Santa Mix]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[R. Paulo Madureira Lebrão, 204 - Vila Cesar, São José dos Campos - SP]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 3322-6937]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://www.santamix.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/SantaMixEventos/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/15/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[23h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 20,00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>NATIRUTS NO LUSO BRASILEIRO </title>
+						<content:encoded><![CDATA[ Ingressos: 
+Ilha do Mel, Trarxa Rock, CBS, Star Point, Padaria Pão Chick, Tribos e L2 Informática
+Descrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Reggae" nicename="Reggae"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Clube de Campo Luso Brasileiro]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Estr. Pedro Moacir de Almeida, S/N - Vargem Grande, São José dos Campos - SP, 12214-480]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 3308-9875]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://www.clubeluso.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/pages/Clube-Luso-Brasileiro/229719880420811?rf=300119993331387]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/15/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[21h30]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 25,00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>THAINÁ CARDOSO no guten bier </title>
+						<content:encoded><![CDATA[ Ingressos a venda na bilheteria do Guten BierDescrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Pop" nicename="Pop"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Guten Bier]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Av. Manoel Borba Gato, 158 - Jardim Nova America, São José dos Campos - SP, 12242-270]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 3341-4133]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://www.gutenbier.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/gutenbiersjc/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/02/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[23h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 20,00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>BANDA KANAVIÁ na ronaldo academy </title>
+						<content:encoded><![CDATA[ Ingressos: 
+Ronaldo Academy
+Mulher R$ 15 e Homem R$ 20Descrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Reggae" nicename="Reggae"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Ronaldo Academy]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Av. Linneu de Moura, 1685 - Urbanova, São José dos Campos - SP, 12244-380]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 3949-2551]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://www.ronaldo.academy/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/ronaldoacademy/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/02/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[23h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 15]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>DUNGA NA CANÇÃO NOVA </title>
+						<content:encoded><![CDATA[ Descrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="" nicename=""><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Canção Nova]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[R. João Paulo II, Alto da Bela Vista ]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(12) 3186-2600]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://www.cancaonova.com/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/cancaonova]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/02/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[21h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[Entrada Franca]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[Livre]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>MATHEUS & KAUAN  E DONIZETI na expoagro 2016 em bragança paulista </title>
+						<content:encoded><![CDATA[ Ingressos para o show de Henrique e Juliano:
+
+Ponto de venda: Humanitarian Calçados de Bragança Paulista
+
+Ingressos Online: Total Acesso e Portal do Ingresso
+
+Ingressos Antecipados até 08 de abril – valor: R$ 30,00
+
+Passaporte – acesso a todos dias da festa – R$ 120,00
+
+Mais informações e compra online, acesse:
+www.expoagrobraganca.com.br
+
+CAMAROTES
+Capacidade para 10 pessoas – todas as noites
+Compra antecipada: R$ R$ 4.500Descrição do EventoDescrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Sertanejo Universitário" nicename="Sertanejo Universitário"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Expoagro 2016 - Bragança Paulista]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Av. Dr. Costa, 588 - Vila Mun.,Bragança Paulista - SP,12912-140,Brasil]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(11) 4035-1208]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://expoagrobraganca.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/rodeiodebraganca/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/10/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[19h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[Entrada Franca]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>PEDRO PAULO & ALEX NA EXPOAGRO 2016 EM BRAGANÇA PAULISTA </title>
+						<content:encoded><![CDATA[ Ingressos para o show de Henrique e Juliano:
+
+Ponto de venda: Humanitarian Calçados de Bragança Paulista
+
+Ingressos Online: Total Acesso e Portal do Ingresso
+
+Ingressos Antecipados até 08 de abril – valor: R$ 30,00
+
+Passaporte – acesso a todos dias da festa – R$ 120,00
+
+Mais informações e compra online, acesse:
+www.expoagrobraganca.com.br
+
+CAMAROTES
+Capacidade para 10 pessoas – todas as noites
+Compra antecipada: R$ R$ 4.500Descrição do EventoDescrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Sertanejo Universitário" nicename="Sertanejo Universitário"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Expoagro 2016 - Bragança Paulista]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Av. Dr. Costa, 588 - Vila Mun.,Bragança Paulista - SP,12912-140,Brasil]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(11) 4035-1208]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://expoagrobraganca.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/rodeiodebraganca/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/15/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[19h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 30]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>JORGE & MATEUS NA EXPOAGRO 2016 EM BRAGANÇA PAULISTA </title>
+						<content:encoded><![CDATA[ Ingressos para o show de Henrique e Juliano:
+
+Ponto de venda: Humanitarian Calçados de Bragança Paulista
+
+Ingressos Online: Total Acesso e Portal do Ingresso
+
+Ingressos Antecipados até 08 de abril – valor: R$ 30,00
+
+Passaporte – acesso a todos dias da festa – R$ 120,00
+
+Mais informações e compra online, acesse:
+www.expoagrobraganca.com.br
+
+CAMAROTES
+Capacidade para 10 pessoas – todas as noites
+Compra antecipada: R$ R$ 4.500Descrição do EventoDescrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Sertanejo Universitário" nicename="Sertanejo Universitário"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Expoagro 2016 - Bragança Paulista]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Av. Dr. Costa, 588 - Vila Mun.,Bragança Paulista - SP,12912-140,Brasil]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(11) 4035-1208]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://expoagrobraganca.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/rodeiodebraganca/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/16/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[19h00]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[A partir de R$ 30]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	<item>
+						<title>GUILHERME & SANTIAGO E NALDO BARRETOS & AMIGOS </title>
+						<content:encoded><![CDATA[ Ingressos para o show de Henrique e Juliano:
+
+Ponto de venda: Humanitarian Calçados de Bragança Paulista
+
+Ingressos Online: Total Acesso e Portal do Ingresso
+
+Ingressos Antecipados até 08 de abril – valor: R$ 30,00
+
+Passaporte – acesso a todos dias da festa – R$ 120,00
+
+Mais informações e compra online, acesse:
+www.expoagrobraganca.com.br
+
+CAMAROTES
+Capacidade para 10 pessoas – todas as noites
+Compra antecipada: R$ R$ 4.500 Descrição do Evento]]></content:encoded>
+						<wp:post_type>post</wp:post_type>
+						<category domain="category" nicename="agenda"><![CDATA[Agenda]]></category>
+						<category domain="Sertanejo Universitário" nicename="Sertanejo Universitário"><![CDATA[]]></category>
+						<wp:postmeta>
+							<wp:meta_key>evento-local</wp:meta_key>
+							<wp:meta_value><![CDATA[Expoagro 2016 - Bragança Paulista]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-endereco</wp:meta_key>
+							<wp:meta_value><![CDATA[Av. Dr. Costa, 588 - Vila Mun.,Bragança Paulista - SP,12912-140,Brasil]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-telefone</wp:meta_key>
+							<wp:meta_value><![CDATA[(11) 4035-1208]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-whatsapp</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-url</wp:meta_key>
+							<wp:meta_value><![CDATA[http://expoagrobraganca.com.br/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-redes</wp:meta_key>
+							<wp:meta_value><![CDATA[https://www.facebook.com/rodeiodebraganca/]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-email</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento_tipo</wp:meta_key>
+							<wp:meta_value><![CDATA[Comum]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-data</wp:meta_key>
+							<wp:meta_value><![CDATA[04/17/2016]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-horario</wp:meta_key>
+							<wp:meta_value><![CDATA[]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-valor</wp:meta_key>
+							<wp:meta_value><![CDATA[Entrada Franca]]></wp:meta_value>
+						</wp:postmeta>
+						<wp:postmeta>
+							<wp:meta_key>evento-faixa-etaria</wp:meta_key>
+							<wp:meta_value><![CDATA[+ 18 anos]]></wp:meta_value>
+						</wp:postmeta>
+					</item>	

@@ -1,0 +1,9 @@
+body {background: #eee;}
+.color-red {color: red;}
+.margin-auto {display: block; margin: auto;}
+.bold {font-weight: bold;}
+label {font-size: 18px; color: #777; font-weight: normal;}
+.margin-top-bottom-20 {margin-top: 20px; margin-bottom: 20px;}
+.form-control{height: 50px; font-size: 18px;}
+.radio label, .checkbox label {font-size: 16px;}
+.uppercase {text-transform: uppercase;}
