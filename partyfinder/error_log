@@ -1,0 +1,10 @@
+[26-Jan-2017 21:07:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$form_estabelecimento' (T_VARIABLE) in /home/dekmi935/public_html/openbalada.com.br/partyfinder/cadastrar-envia.php on line 4
+[26-Jan-2017 21:10:28 America/Chicago] PHP Parse error:  syntax error, unexpected '$form_estabelecimento' (T_VARIABLE) in /home/dekmi935/public_html/openbalada.com.br/partyfinder/cadastrar-envia.php on line 4
+[26-Jan-2017 21:10:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$form_estabelecimento' (T_VARIABLE) in /home/dekmi935/public_html/openbalada.com.br/partyfinder/cadastrar-envia.php on line 4
+[26-Jan-2017 21:12:18 America/Chicago] PHP Parse error:  syntax error, unexpected '$form_estabelecimento' (T_VARIABLE) in /home/dekmi935/public_html/openbalada.com.br/partyfinder/cadastrar-envia.php on line 4
+[26-Jan-2017 21:48:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$form_estabelecimento' (T_VARIABLE) in /home/dekmi935/public_html/openbalada.com.br/partyfinder/cadastrar-envia.php on line 61
+[27-Jan-2017 09:01:31 America/Chicago] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/dekmi935/public_html/openbalada.com.br/partyfinder/lista.php on line 4
+[27-Jan-2017 09:03:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/dekmi935/public_html/openbalada.com.br/partyfinder/lista.php on line 4
+[27-Jan-2017 09:03:34 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting '(' in /home/dekmi935/public_html/openbalada.com.br/partyfinder/lista.php on line 70
+[27-Jan-2017 09:04:25 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting '(' in /home/dekmi935/public_html/openbalada.com.br/partyfinder/lista.php on line 71
+[27-Jan-2017 09:04:53 America/Chicago] PHP Fatal error:  Call to a member function query() on null in /home/dekmi935/public_html/openbalada.com.br/partyfinder/lista.php on line 44

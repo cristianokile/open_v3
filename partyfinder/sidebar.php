@@ -1,13 +1,13 @@
 <div class="logo">
-    <a href="index.php" class="simple-text">
-        Party<strong>Finder</strong> v2
+    <a href="home.php" class="simple-text">
+        <img clas='img-responsive' src="assets/img/partyfinder-logo.png" alt="partyfinder" style="max-width: 225px;">
     </a>
 </div>
 
 <div class="sidebar-wrapper">
 	<ul class="nav">
 		<li <?php if ($page == 'inicio'){echo 'class="active"';}?>>
-			<a href="index.php">
+			<a href="home.php">
 				<i class="material-icons">dashboard</i>
 				<p>Inicio</p>
 			</a>

@@ -1,6 +1,8 @@
 <?php 
 $page = "lista";
-require('header.php') ?>
+require('header.php'); 
+include('assets/config/config.php');
+?>
 
 <body>
 
@@ -28,7 +30,7 @@ require('header.php') ?>
 	                                <p class="category">Casas de eventos cadastradas no sistema</p>
 	                            </div>
 	                            <div class="card-content table-responsive">
-	                                <table class="table">
+									<table class="table">
 	                                    <thead class="text-primary">
 	                                    	<th></th>
 	                                    	<th>Casa de Show</th>
@@ -38,28 +40,36 @@ require('header.php') ?>
 											<th class="text-center">Excluir</th>
 											<th class="text-center">Gerar</th>
 	                                    </thead>
-	                                    <tbody>
-	                                        <tr>
-	                                        	<td>01</td>
-	                                        	<td>Estancia Nativa</td>
-	                                        	<td>Caçapava</td>
-	                                        	<td>www.estancianativa.com.br</td>
-												<td class="text-center">
-													<a class="" href="editar.php">
-														<i class="material-icons">mode_edit</i>
-													</a>
-												</td>
-												<td class="text-center">
-													<a class="" href="#">
-														<i class="material-icons">delete</i>
-													</a>
-												</td>
-												<td class="text-center">
-													<a class="" href="#">
-														<i class="material-icons">get_app</i>
-													</a>
-												</td>
-	                                        </tr>
+										<tbody>
+											<?php $results = $mysqli->query("SELECT * FROM estabelecimentos ORDER BY id"); ?>
+											<?php $list = "";?>
+											<?php while($row = $results->fetch_assoc()) { 
+												$list .= <<<EOT
+													<tr>
+				                                    	<td>{$row['id']}</td>
+				                                    	<td>{$row['estabelecimento']}</td>
+				                                    	<td>{$row['cidade']}</td>
+				                                    	<td>{$row['website']}</td>
+														<td class="text-center">
+															<a class="" href="editar.php">
+																<i class="material-icons">mode_edit</i>
+															</a>
+														</td>
+														<td class="text-center">
+															<a class="" href="#">
+																<i class="material-icons">delete</i>
+															</a>
+														</td>
+														<td class="text-center">
+															<a class="" href="#">
+																<i class="material-icons">get_app</i>
+															</a>
+														</td>
+				                                    </tr>
+EOT;
+	}
+	echo $list;
+?>							
 	                                    </tbody>
 	                                </table>
 

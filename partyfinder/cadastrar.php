@@ -20,7 +20,7 @@ require('header.php') ?>
 
 	        <div class="content">
 	            <div class="container-fluid">
-	            	<form>
+	            	<form method="POST" action="cadastrar-envia.php">
 		                <div class="row">
 		                    <div class="col-md-8">
 		                        <div class="card">
@@ -33,7 +33,7 @@ require('header.php') ?>
 		                                        <div class="col-md-12">
 													<div class="form-group label-floating">
 														<label class="control-label">Casa de Eventos</label>
-														<input type="text" class="form-control">
+														<input type="text" class="form-control" name="form_estabelecimento">
 													</div>
 		                                        </div>
 		                                    </div>
@@ -41,33 +41,47 @@ require('header.php') ?>
 		                                        <div class="col-md-10">
 													<div class="form-group label-floating">
 														<label class="control-label">Endereço</label>
-														<input type="text" class="form-control">
+														<input type="text" class="form-control" name="form_endereco">
 													</div>
 		                                        </div>
 		                                        <div class="col-md-2">
 													<div class="form-group label-floating">
 														<label class="control-label">Nº</label>
-														<input type="text" class="form-control">
+														<input type="text" class="form-control" name="form_numero">
 													</div>
 		                                        </div>
 		                                    </div>
 		                                    <div class="row">
-		                                        <div class="col-md-5">
+		                                        <div class="col-md-6">
+													<div class="form-group label-floating">
+														<label class="control-label">Complemento</label>
+														<input type="text" class="form-control" name="form_complemento">
+													</div>
+		                                        </div>
+		                                        <div class="col-md-6">
 													<div class="form-group label-floating">
 														<label class="control-label">Bairro</label>
-														<input type="text" class="form-control">
+														<input type="text" class="form-control" name="form_bairro">
+													</div>
+		                                        </div>
+		                                    </div>
+		                                    <div class="row">
+		                                    	<div class="col-md-5">
+													<div class="form-group label-floating">
+														<label class="control-label">CEP</label>
+														<input type="text" class="form-control" name="form_CEP">
 													</div>
 		                                        </div>
 		                                        <div class="col-md-5">
 													<div class="form-group label-floating">
 														<label class="control-label">Cidade</label>
-														<input type="text" class="form-control">
+														<input type="text" class="form-control" name="form_cidade">
 													</div>
 		                                        </div>
 		                                        <div class="col-md-2">
 													<div class="form-group label-floating">
 														<label class="control-label">Estado</label>
-														<input type="text" class="form-control">
+														<input type="text" class="form-control" name="form_estado">
 													</div>
 		                                        </div>
 		                                    </div>
@@ -75,19 +89,19 @@ require('header.php') ?>
 		                                        <div class="col-md-4">
 													<div class="form-group label-floating">
 														<label class="control-label">Telefone 1</label>
-														<input type="text" class="form-control">
+														<input type="text" class="form-control" name="form_telefone_1">
 													</div>
 		                                        </div>
 		                                        <div class="col-md-4">
 													<div class="form-group label-floating">
 														<label class="control-label">Telefone 2</label>
-														<input type="text" class="form-control">
+														<input type="text" class="form-control" name="form_telefone_2">
 													</div>
 		                                        </div>
 		                                        <div class="col-md-4">
 													<div class="form-group label-floating">
 														<label class="control-label">Telefone 3</label>
-														<input type="text" class="form-control">
+														<input type="text" class="form-control" name="form_telefone_3">
 													</div>
 		                                        </div>
 		                                    </div>
@@ -95,13 +109,13 @@ require('header.php') ?>
 		                                        <div class="col-md-6">
 													<div class="form-group label-floating">
 														<label class="control-label">E-mail</label>
-														<input type="text" class="form-control">
+														<input type="text" class="form-control" name="form_email">
 													</div>
 		                                        </div>
 		                                        <div class="col-md-6">
 													<div class="form-group label-floating">
 														<label class="control-label">Responsavel</label>
-														<input type="text" class="form-control">
+														<input type="text" class="form-control" name="form_responsavel">
 													</div>
 		                                        </div>
 		                                    </div>
@@ -109,7 +123,7 @@ require('header.php') ?>
 		                                        <div class="col-md-12">
 													<div class="form-group label-floating">
 														<label class="control-label">Website (A versão que aparecerá para os visitantes)</label>
-														<input type="text" class="form-control">
+														<input type="text" class="form-control" name="form_website">
 													</div>
 		                                        </div>
 			                                </div>
@@ -117,13 +131,13 @@ require('header.php') ?>
 		                                        <div class="col-md-6">
 													<div class="form-group label-floating">
 														<label class="control-label">Facebook</label>
-														<input type="text" class="form-control">
+														<input type="text" class="form-control" name="form_facebook">
 													</div>
 		                                        </div>
 		                                        <div class="col-md-6">
 													<div class="form-group label-floating">
 														<label class="control-label">Instagram</label>
-														<input type="text" class="form-control">
+														<input type="text" class="form-control" name="form_instagram">
 													</div>
 		                                        </div>
 		                                    </div>
@@ -131,13 +145,13 @@ require('header.php') ?>
 		                                        <div class="col-md-6">
 													<div class="form-group label-floating">
 														<label class="control-label">Twitter</label>
-														<input type="text" class="form-control">
+														<input type="text" class="form-control" name="form_twitter">
 													</div>
 		                                        </div>
 		                                        <div class="col-md-6">
 													<div class="form-group label-floating">
 														<label class="control-label">Outra Rede Social</label>
-														<input type="text" class="form-control">
+														<input type="text" class="form-control" name="form_outra_rede">
 													</div>
 		                                        </div>
 		                                    </div>
@@ -147,13 +161,13 @@ require('header.php') ?>
 		                                                <label><strong>Informações Complementares</strong></label>
 														<div class="form-group label-floating">
 										    				<label class="control-label"> Adicione informações complementares (opcional)</label>
-									    					<textarea class="form-control" rows="5"></textarea>
+									    					<textarea class="form-control" rows="5" name="form_info"></textarea>
 			                        					</div>
 			                        				</div>
 			                                        <div class="form-group">
 														<div class="form-group label-floating">
 										    				<label for="exampleInputFile">Subir Logotipo</label>
-															<input type="file" id="exampleInputFile">
+															<input type="file" id="exampleInputFile" name="form_estab_logo">
 			                        					</div>
 			                                        </div>
 		                                        </div>
@@ -195,7 +209,7 @@ require('header.php') ?>
 		                                                <label><strong>Digite o endereço completo da página de Agenda</strong></label>
 														<div class="form-group label-floating">
 															<label class="control-label">URL</label>
-															<input type="text" class="form-control">
+															<input type="text" class="form-control" name="form_url_site">
 			                        					</div>
 		                                            </div>
 	                                        </div>
@@ -205,7 +219,7 @@ require('header.php') ?>
 		                                            <div class="form-group">
 		                                                <label><strong>Buscar Links Internos?</strong></label>
 														<div class="form-group label-floating">
-															<select class="form-control">
+															<select class="form-control" name="form_busca_link">
 																<option>Não</option>
 																<option>Sim</option>
 															</select>
@@ -218,7 +232,7 @@ require('header.php') ?>
 		                                            <div class="form-group">
 		                                                <label><strong>DOM contendo Link</strong></label>
 														<div class="form-group label-floating">
-															<input type="text" class="form-control">
+															<input type="text" class="form-control" name="form_dom_link">
 			                        					</div>
 		                                            </div>
 		                                        </div>
@@ -226,7 +240,7 @@ require('header.php') ?>
 		                                            <div class="form-group">
 		                                                <label><strong>DOM contendo Titulo</strong></label>
 														<div class="form-group label-floating">
-															<input type="text" class="form-control">
+															<input type="text" class="form-control" name="form_dom_title">
 			                        					</div>
 		                                            </div>
 		                                        </div>
@@ -234,7 +248,7 @@ require('header.php') ?>
 		                                            <div class="form-group">
 		                                                <label><strong>DOM contendo Imagem</strong></label>
 														<div class="form-group label-floating">
-															<input type="text" class="form-control">
+															<input type="text" class="form-control" name="form_dom_image">
 			                        					</div>
 		                                            </div>
 		                                        </div>
@@ -242,7 +256,7 @@ require('header.php') ?>
 		                                            <div class="form-group">
 		                                                <label><strong>DOM contendo Info</strong></label>
 														<div class="form-group label-floating">
-															<input type="text" class="form-control">
+															<input type="text" class="form-control" name="form_dom_info">
 			                        					</div>
 		                                            </div>
 		                                        </div>
